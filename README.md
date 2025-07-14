@@ -79,3 +79,10 @@ Tomato/
 Feel free to contribute to Tomato by forking this repository, creating a new branch, and submitting a pull request. Please make sure to follow standard coding practices and add meaningful comments to your code.
 
 Enjoy exploring the code and features of Tomato, and feel free to reach out for any questions or suggestions!
+# LIVE PROJECT
+ADMIN:
+[https://mern-food-delivery-app-4gib.vercel.app/](https://mern-food-delivery-app-4gib.vercel.app/)
+FRONTEND:
+[https://mern-food-delivery-app-ten.vercel.app/](https://mern-food-delivery-app-ten.vercel.app/)
+BACKEND:
+[https://mern-food-backend-reaa.onrender.com](https://mern-food-backend-reaa.onrender.com)
